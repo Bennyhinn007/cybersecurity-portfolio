@@ -1,0 +1,1 @@
+{\n  "name": "cybersecurity-portfolio",\n  "version": "1.0.0",\n  "main": "index.js",\n  "dependencies": {\n    "three": "^0.128.0",\n    "other-dependency": "^1.0.0" \n  },\n  "devDependencies": {\n    "dev-dependency": "^1.0.0"\n  }\n}
